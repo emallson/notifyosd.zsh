@@ -1,5 +1,5 @@
 # commands to ignore
-cmdignore=(htop tmux top nvim man)
+cmdignore=(htop tmux top nvim man fg)
 
 # set gt 0 to enable GNU units for time results
 gnuunits=0
